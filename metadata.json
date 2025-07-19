@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Builder",
+  "description": "An AI-powered web development environment. Describe the website you want to build, and the AI will generate the HTML, CSS, and JavaScript code for you. Edit the code and see a live preview instantly.",
+  "requestFramePermissions": []
+}
