@@ -3,7 +3,7 @@
 This is a modern, AI-powered web development environment that allows you to generate and preview websites in real-time. Simply describe the website you want to build, and the AI will generate the HTML, CSS, and JavaScript code for you. You can then edit the code and see your changes instantly.
 
 
-Check it out here : https://vercel.com/moron3753-gmailcoms-projects/ai-website-builder
+Check it out here : https://ai-website-builder-six-roan.vercel.app/
 
 
 ## ✨ Features
